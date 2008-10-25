@@ -1,7 +1,0 @@
-xmpp:
-  jid: jid@some.server.tld/resource
-  pass: h4x0rtr0n1k 
-
-commands:
-  - foo
-  - haa

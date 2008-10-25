@@ -2,11 +2,11 @@
 #
 # Daemontools-like startup script
 
-exec > embot.log
+exec > bot.log
 exec 2>&1
 
 while :
 do
-	ruby embot.rb
+	ruby bot.rb
 	sleep 5
 done
