@@ -1,4 +1,6 @@
-### XMPP bot stub 
+### em-jabberbot
+
+An XMPP bot that executes jobs in EM-spawned 'processes'. 
 
 1. vi bot.yml
 
